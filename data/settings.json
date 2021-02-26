@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Johan",
+      "topics": [
+        {
+          "title": "Test",
+          "slug": "test"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
