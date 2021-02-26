@@ -1,10 +1,10 @@
 ---
-title: Forestry CMS
-date: 2020-01-02
-slug: forestry-cms
+title: Bio Johan
+date: 2021-02-26
+slug: bio-johan
 
 ---
-## Import starter
+<!-- ## Import starter
 
 [![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other&preview=https://res.cloudinary.com/forestry-io/image/fetch/w_400,h_300,c_fill,f_jpg/https://forestry.io/img/starters/jamdocs.png "Import to Forestry")
 
@@ -12,11 +12,6 @@ This project has been pre-configured to work with Forestry, just import your rep
 Any changes you make will be commited back to the repo,
 
 ## Start Instant Previews
-
----
-A creative front-end dev who loves building out cool projects together with a team. Based in Gouda, The Netherlands, I work for a local company specialised in Microsoft services and Consulting called ShareValue, where I joined the Front-end team in June off 2018. I really love working on the look and feel part off a site or application.
-
----
 
 Start the preview environement if you want to be able to preview your website.
 
@@ -44,4 +39,8 @@ Click on the **Menu** section in Forestry to add a new section or topics from th
 
 ![](/forestry-sidebar-settings.png)
 
-See [Forestry documentation](https://forestry.io/docs) if you want to know more.
+See [Forestry documentation](https://forestry.io/docs) if you want to know more. -->
+
+## Johan Bijlsma
+
+A creative front-end dev who loves building out cool projects together with a team. Based in Gouda, The Netherlands, I work for a local company specialised in Microsoft services and Consulting called ShareValue, where I joined the Front-end team in June off 2018. I really love working on the look and feel part off a site or application.
